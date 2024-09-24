@@ -1,0 +1,1 @@
+My pen test as a beginner frontend developer. Although the site responds to user actions, it DOES NOT provide any services and DOES NOT process your personal information. It's just a small personal learning project and nothing more. I hope you enjoy it.
